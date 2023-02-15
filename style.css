@@ -1,0 +1,35 @@
+p{
+  font-style: oblique;
+  font-size: small;
+  font-weight: bolder;
+  font-family: cursive;
+}
+h1{
+  background-color: smokewhite;
+  padding: 8px;
+  margin: 9px;
+  font-family: cursive;
+}
+#socDetails
+{
+  font-style: oblique;
+  font-size: small;
+  font-weight: bolder;
+  font-family: cursive;
+}
+#Hsocial{
+
+  style="padding-left:20vh"
+  font-family: cursive;
+  font-size: big;
+  font-weight: bolder;
+  margin-left: 28%;
+}
+nav a:hover{
+  background:grey;
+  color:black;
+}
+#contact_main{
+  height:100vh ;
+  background-color:smokewhite;
+}
